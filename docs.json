@@ -22,7 +22,11 @@
                "quickstart",
                "early-access"
              ]
-          }
+          },
+          {
+            "group": "Customer",
+            "pages": [
+              "customer-guide"
         ]
       }
     ],
