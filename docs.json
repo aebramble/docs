@@ -9,13 +9,19 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
+    "tabs": [
       {
-        "group": "Getting Started",
-        "public": true,
-        "pages": [
-          "index",
-          "quickstart"
+        "tab": "Documentation",
+        "icon": "book-open",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "public": true,
+             "pages": [
+                "index",
+               "quickstart"
+             ]
+          }
         ]
       }
     ],
