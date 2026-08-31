@@ -19,7 +19,7 @@
             "public": true,
              "pages": [
                 "index",
-               "quickstart"
+               "quickstart",
                "early-access"
              ]
           }
